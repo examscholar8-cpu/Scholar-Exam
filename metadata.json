@@ -1,0 +1,7 @@
+{
+  "name": "Bharat Samuh Anudan",
+  "description": "A comprehensive digital platform for group-based transparent fund distribution and financial security for rural India.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
